@@ -1,4 +1,4 @@
-Django==4.0.3
+Django==4.2.22
 mysqlclient==2.1.0
 dnslib==0.9.19
 requests
